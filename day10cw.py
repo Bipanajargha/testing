@@ -34,3 +34,8 @@ print(a)
 #3)popitem() = removes last
 a.popitem()
 print(a) 
+ 
+print(a.keys())
+print(a.values())
+print(a.items())
+print(a.sum())
