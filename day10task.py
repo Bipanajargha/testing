@@ -10,7 +10,7 @@ student.pop('age')
 print(student)
 
 
-#merge or adding multiple values
+#merge or adding multiple values at once
 dict1 = {"a":1, "b":2}
 dict2 = {"c":3, "d":4}
 dict1.update(dict2)
