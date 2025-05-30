@@ -63,6 +63,7 @@ a = [1,2,3]
 b = [1,2,3]
 print(id(a)) #gives location address
 print(id(b))
+
 print(a is b) #memory location tracker
 #difference 
 print(a==b) # exact value of variable
@@ -153,7 +154,7 @@ print(~(a))
 print(~(b))
 
 #xor ^
-#0101
+#0101 5
 print(a^b)
 
 a = 12 # 8 4 2 1 = 1100
